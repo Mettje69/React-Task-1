@@ -1,5 +1,6 @@
 {
   "name": "post-app",
+  "homepage": "https://mettje69.github.io/post-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
